@@ -1,7 +1,7 @@
-# CSLabInfo2023（二代目）
+# CSLabInfo2024（三代目）
 关于2023年**CS保研实验室/导师招生广告**的汇总。欢迎想要打广告的小伙伴积极PR，资瓷一下互联网精神吼不吼啊？预祝大家都能找到自己心仪的导师！
 
-另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
+另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)。
 
 # 免责声明
 
@@ -14,6 +14,8 @@
 # 致谢
 
 **本仓库主要由以下人员共同维护，感谢大家的支持！**
+
+2024: [@NoFish-528](https://github.com/NoFish-528)
 
 2023: [@yfyeung](https://github.com/yfyeung)、[@zengkaipeng](https://github.com/zengkaipeng)
 
