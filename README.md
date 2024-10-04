@@ -15,7 +15,7 @@
 
 **本仓库主要由以下人员共同维护，感谢大家的支持！**
 
-2024: [@NoFish-528](https://github.com/NoFish-528)
+2024: [@ZhikangNiu](https://github.com/ZhikangNiu)
 
 2023: [@yfyeung](https://github.com/yfyeung)、[@zengkaipeng](https://github.com/zengkaipeng)
 
@@ -34,7 +34,8 @@
 
 # Copyright
 ```
-# Copyright      2023  (Yifan   Yang, https://github.com/yfyeung,
+# Copyright      2024  (Zhikang Niu, https://github.com/ZhikangNiu
+#                       Yifan   Yang, https://github.com/yfyeung,
 #                       Zengkai Peng, https://github.com/zengkaipeng,
 #                       Ziyang  Ma,   https://github.com/ddlBoJack)
 #
