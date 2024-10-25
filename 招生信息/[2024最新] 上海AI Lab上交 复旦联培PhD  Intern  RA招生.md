@@ -1,4 +1,4 @@
-# 上海AI Lab上交/复旦联培PhD/Intern/RA招生 (大模型安全可信方向)
+# 上海AI Lab上交/复旦联培PhD/Intern/RA招生 (LLM/MLLM安全可信方向)
 
 
 
