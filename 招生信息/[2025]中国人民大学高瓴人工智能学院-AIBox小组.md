@@ -2,25 +2,27 @@
 
 本贴的主要目的是在学校开展夏令营前与同学们进行提前进行双向沟通，让感兴趣的本科生有提前了解课题组的机会。
 
-官方账号：[[小组主页](http://aibox.ruc.edu.cn/)]｜公众号（RUC AI Box）｜[[知乎](https://www.zhihu.com/people/dou-hong-jian-44/)]｜[[小红书](https://www.xiaohongshu.com/user/profile/5f5964240000000001008a99)]｜[[B站](https://space.bilibili.com/3546860507629863)]
+官方账号：[<a href="http://aibox.ruc.edu.cn/" target="_blank">小组主页</a>]｜[<a href="https://mp.weixin.qq.com/s/UbaddUEack2WBlYKSdA7Ww" target="_blank">公众号</a>]｜[<a href="https://www.zhihu.com/people/dou-hong-jian-44/" target="_blank">知乎</a>]｜[<a href="https://www.xiaohongshu.com/user/profile/5f5964240000000001008a99" target="_blank">小红书</a>]｜[<a href="https://space.bilibili.com/3546860507629863" target="_blank">B站</a>]
+
 
 
 ## 导师简介
 
-赵鑫，中国人民大学高瓴人工智能学院教授，国家优青项目获得者。研究领域为大语言模型、自然语言处理、信息检索和推荐系统等，共计发表论文100余篇，谷歌学术引用3.1万余次，曾组织编写了大语言模型综述论文《A Survey of Large Language Models》(预印版文章)以及《大语言模型》中文书。曾荣获2020年吴文俊人工智能优秀青年奖、ECIR 2021时间检验奖，CCF-IEEE CS青年科学家奖。更多信息可以参阅官方链接：[[https://gsai.ruc.edu.cn/waynexinzhao](https://gsai.ruc.edu.cn/waynexinzhao)]
+赵鑫，中国人民大学高瓴人工智能学院教授，国家优青项目获得者。研究领域为大语言模型、自然语言处理、信息检索和推荐系统等，共计发表论文100余篇，谷歌学术引用3.1万余次，曾组织编写了大语言模型综述论文《A Survey of Large Language Models》(预印版文章)以及《大语言模型》中文书。曾荣获2020年吴文俊人工智能优秀青年奖、ECIR 2021时间检验奖，CCF-IEEE CS青年科学家奖。更多信息可以参阅官方链接：[<a href="https://gsai.ruc.edu.cn/waynexinzhao" target="_blank">赵鑫老师主页</a>]
 
 
 ## 小组简介
 
 本小组正常情况下可以指导直博生、普博生和硕士生。赵鑫老师对于本科生的科研培养以及研究生的科研培养经验，可以参阅以下两个帖子：
 
-- [[计算机系本科生开展科研学习的九问九答](https://zhuanlan.zhihu.com/p/139287474)]
-- [[研究生的早期科研之路](https://zhuanlan.zhihu.com/p/149020933)]
+- [<a href="https://zhuanlan.zhihu.com/p/139287474" target="_blank">计算机系本科生开展科研学习的九问九答</a>]
+- [<a href="https://zhuanlan.zhihu.com/p/149020933" target="_blank">研究生的早期科研之路</a>]
+
 
 
 ## 学生去向
 
-AI Box研究组坚持以学生的科研培养为第一目标，经历了几年的发展，涌现出了很多的优秀同学，去向丰富，更多信息详见[[小组主页](http://aibox.ruc.edu.cn/ryjs/index.htm)]。
+AI Box研究组坚持以学生的科研培养为第一目标，经历了几年的发展，涌现出了很多的优秀同学，去向丰富，更多信息详见[<a href="http://aibox.ruc.edu.cn/ryjs/index.htm" target="_blank">小组主页</a>]。
 
 - **学术届：** 新加坡国立大学、加州大学圣地亚哥分校、阿姆斯特丹大学继续深造（博士/博后）；对外经贸大学、北京邮电大学讲师等
 - **工业界：** 阿里通义千问、字节跳动、百度、蚂蚁、阿里妈妈、快手、BOSS直聘等
@@ -30,7 +32,7 @@ AI Box研究组坚持以学生的科研培养为第一目标，经历了几年�
 
 **预训练、多模态、复杂推理、信息检索和推荐系统、大模型利用与微调。** 小组相关工作概览可参考：
 
-- [[AI Box研究方向汇总：全面拥抱大模型时代](https://mp.weixin.qq.com/s/UbaddUEack2WBlYKSdA7Ww)]
+- [<a href="https://mp.weixin.qq.com/s/UbaddUEack2WBlYKSdA7Ww" target="_blank">AI Box研究方向汇总：全面拥抱大模型时代</a>]
 
 
 ## 目标学生
@@ -58,4 +60,4 @@ AI Box研究组坚持以学生的科研培养为第一目标，经历了几年�
 
 ### Step 2
 
-填写问卷：[[https://wj.qq.com/s2/21459712/d578/](https://wj.qq.com/s2/21459712/d578/)]
+填写问卷：[<a href="https://wj.qq.com/s2/21459712/d578/" target="_blank">https://wj.qq.com/s2/21459712/d578/</a>]
